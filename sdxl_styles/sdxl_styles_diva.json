@@ -155,12 +155,12 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful"
     },
     {
-        "name": "Fauvism",
+        "name": "AA_Fauvism",
         "prompt": "Fauvism Art, {prompt}, painterly, bold colors, textured brushwork, fauvism art",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
     {
-        "name": "Flat 2D Art",
+        "name": "AA_Flat 2D Art",
         "prompt": "Flat 2D Art, {prompt}, simple flat color, 2-dimensional, Flat 2D Art Style",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
     },
@@ -170,7 +170,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
     },
     {
-        "name": "Futurism",
+        "name": "AA_Futurism",
         "prompt": "Futurism Art Style, {prompt}, dynamic, dramatic, Futurism Art Style",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
@@ -270,7 +270,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
     {
-        "name": "Minimalism",
+        "name": "AA_Minimalism",
         "prompt": "Minimalism, {prompt}, abstract, simple geometic shapes, hard edges, sleek contours, Minimalism",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
@@ -320,7 +320,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
     {
-        "name": "Pop Art 2",
+        "name": "AA_Pop Art 2",
         "prompt": "Pop Art, {prompt}, vivid colors, flat color, 2D, strong lines, Pop Art",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
     },
@@ -335,7 +335,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
     {
-        "name": "Simple Vector Art",
+        "name": "AA_Simple Vector Art",
         "prompt": "Simple Vector Art, {prompt}, 2D flat, simple shapes, minimalistic, professional graphic, flat color, high contrast, Simple Vector Art",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
     },
@@ -370,7 +370,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, oversaturated"
     },
     {
-        "name": "Sticker Designs",
+        "name": "AA_Sticker Designs",
         "prompt": "Vector Art Stickers, {prompt}, professional vector design, sticker designs, Sticker Sheet",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
