@@ -16,7 +16,7 @@
     "path_wildcards": "/content/Fooocus/wildcards",
     "path_safety_checker": "/content/Fooocus/models/safety_checker",
     "path_sam": "/content/Fooocus/models/sam",
-    "path_outputs": "/content/drive/outputs",
+    "path_outputs": "/content/drive/MyDrive/outputs",
     "available_aspect_ratios": [
         "704*1408",
         "704*1344",
