@@ -36,8 +36,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "signature, extra fingers, abs, 3D, text, monochrome, photorealistic, cracks on face, smudges on face, oil, score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, cross, Christ, Christian, 
-",
+    "default_prompt_negative": "signature, extra fingers, abs, 3D, text, monochrome, photorealistic, cracks on face, smudges on face, oil, score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, cross, Christ, Christian,",
     "default_styles": [
         "Fooocus Pony"
     ],
