@@ -1,5 +1,5 @@
 {
-    "default_model": "cyberrealisticPony_v63.safetensors",
+    "default_model": "cyberrealisticPonyv64.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
