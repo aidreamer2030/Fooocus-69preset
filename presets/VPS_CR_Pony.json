@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "cyberrealisticPonyv64.safetensors": "https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealisticPony_v65.safetensors"
+        "cyberrealisticPonyv65.safetensors": "https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealisticPony_v65.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
