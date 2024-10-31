@@ -1,38 +1,38 @@
 [
   {
-      "name": "(shot) Selfie",
+      "name": "Selfie(shot)",
       "prompt": "(selfie)"
   },
   {
-      "name": "(shot) Backshot",
+      "name": "Backshot(shot)",
       "prompt": "(back-shot rear-shot)"
   },
   {
-      "name": "(shot) Closeup",
+      "name": "Closeup(shot)",
       "prompt": "(close-up shot)"
   },
   {
-      "name": "(shot) Extreme Closeup",
+      "name": "Extreme Closeup(shot)",
       "prompt": "(extreme close-up shot)"
   },
   {
-      "name": "(shot) Pov",
+      "name": "Pov(shot)",
       "prompt": "(pov looking at viewer)"
   },
   {
-      "name": "(shot) Low Angle",
+      "name": "Low Angle(shot)",
       "prompt": "(low angle shot)"
   },
   {
-      "name": "(shot) High Angle",
+      "name": "High Angle(shot)",
       "prompt": "(high angle shot)"
   },
   {
-      "name": "(shot) Full",
+      "name": "Full(shot)",
       "prompt": "(full shot)"
   },
   {
-      "name": "(shot) Wide",
+      "name": "Wide(shot)",
       "prompt": "(wide shot)"
   }
 ]
