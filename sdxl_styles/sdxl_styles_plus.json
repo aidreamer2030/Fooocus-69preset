@@ -1,38 +1,38 @@
 [
     {
-        "name": "(plus) Photorealistic",
+        "name": "Photorealistic(plus)",
         "prompt": "(photorealistic, hyperrealistic, realistic)"
     },
     {
-        "name": "(plus) Realistic Painting",
+        "name": "Realistic Painting(plus)",
         "prompt": "realistic art, painting, soft shading"
     },
     {
-        "name": "(plus) Lighting Realistic Painting Style",
+        "name": "Lighting Realistic Painting Style(plus)",
         "prompt": "volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
     {
-        "name": "(plus) Source Cartoon",
+        "name": "Source Cartoon(plus)",
         "prompt": "source_cartoon"
     },
     {
-        "name": "(plus) Source Anime",
+        "name": "Source Anime(plus)",
         "prompt": "source_anime"
     },
     {
-        "name": "(plus) Movement",
+        "name": "Movement(plus)",
         "prompt": "movement, depth of field, in motion, motion blur"
     },
     {
-        "name": "(plus) Negative",
+        "name": "Negative(plus)",
         "negative_prompt": "worst quality, low quality"
     },
     {
-        "name": "(plus) Negative2",
+        "name": "Negative2(plus)",
         "negative_prompt": "text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, transgender"
     },
     {
-        "name": "(plus) Negative3",
+        "name": "Negative3(plus)",
         "negative_prompt": "(deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes"
     }
 ]
