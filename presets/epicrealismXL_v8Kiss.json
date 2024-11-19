@@ -1,5 +1,5 @@
 {
-    "default_model": "epicrealismXL_v8Kiss.safetensors",
+    "default_model": epicrealismXL_vxFinalkiss.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "epicrealismXL_v8Kiss.safetensors": "https://huggingface.co/LupusNyx/lxds/resolve/main/epicrealismXL_v8Kiss.safetensors"
+        "epicrealismXL_vxFinalkiss.safetensors": "https://huggingface.co/LupusNyx/lxds/resolve/main/epicrealismXL_vxFinalkiss.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
