@@ -1,5 +1,5 @@
 {
-    "default_model": "bohofunk_v10",
+    "default_model": "bohofunk_v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
