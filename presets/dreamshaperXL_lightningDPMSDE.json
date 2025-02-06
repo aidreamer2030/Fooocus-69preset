@@ -1,5 +1,5 @@
 {
-    "default_model": "dreamshaperXL_lightningDPMSDE",
+    "default_model": "dreamshaperXL_lightningDPMSDE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
