@@ -1,5 +1,5 @@
 {
-    "default_model": "switchMix_toon",
+    "default_model": "switchMix_toon.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
