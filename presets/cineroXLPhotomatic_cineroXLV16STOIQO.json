@@ -1,5 +1,5 @@
 {
-    "default_model": "cineroXLPhotomatic_cineroXLV16STOIQO",
+    "default_model": "cineroXLPhotomatic_cineroXLV16STOIQO.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
