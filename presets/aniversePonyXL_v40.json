@@ -1,5 +1,5 @@
 {
-    "default_model": "aniversePonyXL_v40",
+    "default_model": "aniversePonyXL_v40.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
