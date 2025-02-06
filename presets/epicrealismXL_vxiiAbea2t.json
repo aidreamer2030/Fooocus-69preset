@@ -1,5 +1,5 @@
 {
-    "default_model": "epicrealismXL_vxiiAbea2t",
+    "default_model": "epicrealismXL_vxiiAbea2t.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
