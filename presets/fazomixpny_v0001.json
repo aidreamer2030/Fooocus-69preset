@@ -1,5 +1,5 @@
 {
-    "default_model": "fazomixpny_v0001",
+    "default_model": "fazomixpny_v0001.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
