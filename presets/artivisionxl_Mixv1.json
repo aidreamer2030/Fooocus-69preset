@@ -1,5 +1,5 @@
 {
-    "default_model": "artivisionxl_Mixv1",
+    "default_model": "artivisionxl_Mixv1.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
