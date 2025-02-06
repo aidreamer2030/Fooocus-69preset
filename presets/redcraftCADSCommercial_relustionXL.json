@@ -1,5 +1,5 @@
 {
-    "default_model": "redcraftCADSCommercial_relustionXL",
+    "default_model": "redcraftCADSCommercial_relustionXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "None",
