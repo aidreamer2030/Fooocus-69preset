@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "juggernautXL_juggXIByRundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -10,18 +10,18 @@
         ],
         [
             true,
-            "None",
-            1.0
+            "add-detail-xl.safetensors",
+            1.5
         ],
         [
             true,
-            "None",
-            1.0
+            "xl_more_art-full_v1.safetensors",
+            0.8
         ],
         [
             true,
-            "None",
-            1.0
+            "OnoffXL5.14.safetensors",
+            0
         ],
         [
             true,
@@ -44,11 +44,15 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/juggernautXL_juggXIByRundiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
+        "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
+        "OnoffXL5.14.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/OnoffXL5.14.safetensors"
+     
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
