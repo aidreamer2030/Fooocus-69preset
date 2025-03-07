@@ -2,6 +2,7 @@
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
+    "default_vae": "none",
     "default_loras": [
         [
             true,
@@ -44,7 +45,8 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
+        "Juggernaut-XI-byRunDiffusion.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -53,6 +55,9 @@
         "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
         "OnoffXL5.14.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/OnoffXL5.14.safetensors"
      
+    },
+    "vae_downloads": {
+        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
