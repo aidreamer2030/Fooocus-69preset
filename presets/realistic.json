@@ -44,7 +44,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "cyberrealisticPony_v63.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/cyberrealisticPony_v85.safetensors"
+        "cyberrealisticPony_v85.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/cyberrealisticPony_v85.safetensors"
     },
     "embeddings_downloads": {
         "CyberRealisticPony_POSV1.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/CyberRealisticPony_POSV1.safetensors",
