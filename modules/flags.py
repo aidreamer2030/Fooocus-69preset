@@ -150,7 +150,7 @@ class Steps(IntEnum):
 
 class StepsUOV(IntEnum):
     QUALITY = 36
-    SPEED = 18
+    SPEED = 30
     EXTREME_SPEED = 8
     LIGHTNING = 4
     HYPER_SD = 4
