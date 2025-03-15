@@ -36,7 +36,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "CyberRealisticNegativeSDXL-neg , open mouth, closed eyes,",
+    "default_prompt_negative": "CyberRealistic_Negative_SDXL-neg , open mouth, closed eyes,",
     "default_styles": [
         "Fooocus V2"
     ],
@@ -46,7 +46,9 @@
     "checkpoint_downloads": {
         "dreamshaperXL_lightningDPMSDE.safetensors": "https://huggingface.co/LoneWolfVPS/TestingModels/resolve/main/dreamshaperXL_lightningDPMSDE.safetensors"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {       
+    "CyberRealistic_Negative_SDXL-neg.safetensors": "https://huggingface.co/AMERICAN666/Embeddings/resolve/main/CyberRealistic_Negative_SDXL-neg.safetensors"
+    },
     "lora_downloads": {},
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
