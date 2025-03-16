@@ -4,16 +4,16 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "None",
+            "detailed_notrigger.safetensors",
             1.0
         ],
         [
-            "None",
-            1.0
+            "xl_more_art-full_v1.safetensors",
+            0.8
         ],
         [
-            "None",
-            1.0
+            "add-detail-xl.safetensors",
+            1.5
         ],
         [
             "None",
@@ -42,7 +42,13 @@
         "DreamShaperXL_Turbo_v2_1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/DreamShaperXL_Turbo_v2_1.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
+        "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
+        "MJ52_v2.0.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/MJ52_v2.0.safetensors",
+        "WildcardX-XL-Detail-Enhancer.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/WildcardX-XL-Detail-Enhancer.safetensors",
+        "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors"          
+    },
     "previous_default_models": [
         "DreamShaperXL_Turbo_dpmppSdeKarras_half_pruned_6.safetensors"
     ]
