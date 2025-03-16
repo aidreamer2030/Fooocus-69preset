@@ -34,7 +34,9 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
-        "Fooocus Sharp"
+        "Fooocus Semi Realistic",
+        "Fooocus Negative",
+        "Fooocus Masterpiece"
     ],
     "default_aspect_ratio": "800*1000",
     "default_overwrite_step": 6,
