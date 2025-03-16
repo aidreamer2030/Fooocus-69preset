@@ -4,19 +4,19 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            false,
-            "None",
-            0.85
+            true,
+            "detailed_notrigger.safetensors",
+            1.0
         ],
         [
-            false,
-            "None",
-            0.6
+            true,
+            "xl_more_art-full_v1.safetensors",
+            0.8
         ],
         [
-            false,
-            "None",
-            0.82
+            true,
+            "add-detail-xl.safetensors",
+            1.5
         ],
         [
             false,
