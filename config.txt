@@ -1,21 +1,21 @@
 {
     "path_checkpoints": [
-        "/content/Fooocus/models/checkpoints"
+        "/content/Fooocus-69preset/models/checkpoints"
     ],
     "path_loras": [
-        "/content/Fooocus/models/loras"
+        "/content/Fooocus-69preset/models/loras"
     ],
-    "path_embeddings": "/content/Fooocus/models/embeddings",
-    "path_vae_approx": "/content/Fooocus/models/vae_approx",
-    "path_vae": "/content/Fooocus/models/vae",
-    "path_upscale_models": "/content/Fooocus/models/upscale_models",
-    "path_inpaint": "/content/Fooocus/models/inpaint",
-    "path_controlnet": "/content/Fooocus/models/controlnet",
-    "path_clip_vision": "/content/Fooocus/models/clip_vision",
-    "path_fooocus_expansion": "/content/Fooocus/models/prompt_expansion/fooocus_expansion",
-    "path_wildcards": "/content/Fooocus/wildcards",
-    "path_safety_checker": "/content/Fooocus/models/safety_checker",
-    "path_sam": "/content/Fooocus/models/sam",
+    "path_embeddings": "/content/Fooocus-69preset/models/embeddings",
+    "path_vae_approx": "/content/Fooocus-69preset/models/vae_approx",
+    "path_vae": "/content/Fooocus-69preset/models/vae",
+    "path_upscale_models": "/content/Fooocus-69preset/models/upscale_models",
+    "path_inpaint": "/content/Fooocus-69preset/models/inpaint",
+    "path_controlnet": "/content/Fooocus-69preset/models/controlnet",
+    "path_clip_vision": "/content/Fooocus-69preset/models/clip_vision",
+    "path_fooocus_expansion": "/content/Fooocus-69preset/models/prompt_expansion/fooocus_expansion",
+    "path_wildcards": "/content/Fooocus-69preset/wildcards",
+    "path_safety_checker": "/content/Fooocus-69preset/models/safety_checker",
+    "path_sam": "/content/Fooocus-69preset/models/sam",
     "path_outputs": "/content/drive/MyDrive/outputs",
     "available_aspect_ratios": [
         "704*1408",
