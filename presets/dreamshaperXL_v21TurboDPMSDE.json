@@ -44,7 +44,7 @@
     "default_aspect_ratio": "800*1000",
     "default_overwrite_step": 8,
     "checkpoint_downloads": {
-        "dreamshaperXL_v21TurboDPMSDE.safetensors": "https://huggingface.co/LoneWolfVPS/TestingModels/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors"
+        "DreamShaperXL_Turbo_v2_1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/DreamShaperXL_Turbo_v2_1.safetensors"
     },
     "embeddings_downloads": {       
     "CyberRealistic_Negative_SDXL-neg.safetensors": "https://huggingface.co/AMERICAN666/Embeddings/resolve/main/CyberRealistic_Negative_SDXL-neg.safetensors"
