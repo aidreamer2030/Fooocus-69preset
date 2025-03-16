@@ -43,7 +43,6 @@
     ],
     "default_aspect_ratio": "800*1000",
     "default_overwrite_step": 6,
-    "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "dreamshaperXL_lightningDPMSDE.safetensors": "https://huggingface.co/LoneWolfVPS/TestingModels/resolve/main/dreamshaperXL_lightningDPMSDE.safetensors"
     },
