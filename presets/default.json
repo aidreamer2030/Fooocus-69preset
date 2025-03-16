@@ -20,12 +20,12 @@
         ],
         [
             true,
-            "none",
-            0
+            "RMSDXL_Enhance.safetensors",
+            5
         ],
         [
-            true,
-            "None",
+            false,
+            "HDRv1.safetensors",
             1.0
         ]
     ],
