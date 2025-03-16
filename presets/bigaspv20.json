@@ -5,13 +5,13 @@
     "default_loras": [
         [
             true,
-            "None",
-            0.85
+            "add-detail-xl.safetensors",
+            1.5
         ],
         [
             true,
-            "None",
-            0.6
+            "xl_more_art-full_v1.safetensors",
+            0.8
         ],
         [
             true,
