@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt_negative": "blurry, low resolution, pixelated, distorted, unrealistic, deformed, out of focus, overexposed, underexposed, bad anatomy, mutated, extra limbs, missing limbs, unnatural proportions, low quality, bad lighting, grainy, noisy, oversaturated, unnatural colors, poor composition, watermark, text, cropped, stretched, overcompressed, jpeg artifacts, low detail, lack of depth, poor shading, inconsistent style, AI artifacts",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
