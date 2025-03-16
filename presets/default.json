@@ -53,7 +53,9 @@
         "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
         "MJ52_v2.0.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/MJ52_v2.0.safetensors",
         "WildcardX-XL-Detail-Enhancer.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/WildcardX-XL-Detail-Enhancer.safetensors",
-        "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors"     
+        "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors",
+        "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors",
+        "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/RMSDXL_Enhance.safetensors"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
