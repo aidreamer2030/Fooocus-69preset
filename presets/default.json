@@ -59,7 +59,8 @@
         "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/RMSDXL_Enhance.safetensors"
     },
     "vae_downloads": {
-        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
+        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors",
+        "diffusion_pytorch_model.safetensors": "https://huggingface.co/John6666/cyberrealistic-pony-v85-sdxl/resolve/main/vae/diffusion_pytorch_model.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
