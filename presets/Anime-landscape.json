@@ -42,7 +42,7 @@
     "default_aspect_ratio": "720*1280",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "makotoShinkaiStyle_v10.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/makotoShinkaiStyle_v10.safetensors",
+                "makotoShinkaiStyle_v10.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/makotoShinkaiStyle_v10.safetensors",
 		"pastelMixStylizedAnime_pastelMixPrunedFP32.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/pastelMixStylizedAnime_pastelMixPrunedFP32.safetensors",
 		"dreamshaper_8.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/dreamshaper_8.safetensors",
 		"dreamshaperXL_v21TurboDPMSDE.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors",
@@ -52,16 +52,16 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "Detailed_Places_R-128_v1.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/Detailed_Places_R-128_v1.safetensors",
-        "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/RMSDXL_Enhance.safetensors",
+                "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+                "Detailed_Places_R-128_v1.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/Detailed_Places_R-128_v1.safetensors",
+                "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/RMSDXL_Enhance.safetensors",
 		"Shinkai_style_last.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/Shinkai_style_last.safetensors",
 		"XDetail_heavy.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/XDetail_heavy.safetensors",
 		"XDetail_light.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/XDetail_light.safetensors",
 		"add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/add-detail-xl.safetensors",
 		"epi_noiseoffset2.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/epi_noiseoffset2.safetensors",
-        "more_details.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/more_details.safetensors",
-	    "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/xl_more_art-full_v1.safetensors"
+                "more_details.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/more_details.safetensors",
+	        "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/Anime-checkpoint-lora/resolve/main/Loras/xl_more_art-full_v1.safetensors"
      
      
     },
