@@ -1,5 +1,5 @@
 {
-    "default_model": "xeneroPonyNSFW_v14Realism.safetensors",
+    "default_model": "xeneroPonyNSFW_v18Satmix.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "xeneroPonyNSFW_v14Realism.safetensors": "https://huggingface.co/LupusNyx/TestPonyModels/resolve/main/xeneroPonyNSFW_v14Realism.safetensors"
+        "xeneroPonyNSFW_v18Satmix.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/xeneroPonyNSFW_v18Satmix.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
