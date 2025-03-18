@@ -44,8 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "Juggernaut-XI-byRunDiffusion.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
