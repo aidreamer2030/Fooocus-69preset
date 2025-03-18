@@ -36,7 +36,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "CyberRealisticPony_POSV1, ",
-    "default_prompt_negative": "CyberRealistic_Negative_PONY-neg, CyberRealistic_Negative_PONY,   ",
+    "default_prompt_negative": "CyberRealistic_Negative_PONY-neg,    ",
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
