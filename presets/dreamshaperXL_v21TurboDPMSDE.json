@@ -1,5 +1,5 @@
 {
-    "default_model": "dreamshaperXL_v21TurboDPMSDE.safetensors",
+    "default_model": "DreamShaperXL_Turbo_v2_1.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
