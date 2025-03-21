@@ -17,6 +17,8 @@
     "path_safety_checker": "/content/Fooocus-69preset/models/safety_checker",
     "path_sam": "/content/Fooocus-69preset/models/sam",
     "path_outputs": "/content/drive/MyDrive/outputs",
+    "default_loras_min_weight": -5,
+    "default_loras_max_weight": 5,
     "available_aspect_ratios": [
         "704*1408",
         "704*1344",
