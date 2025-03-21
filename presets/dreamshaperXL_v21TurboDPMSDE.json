@@ -19,9 +19,9 @@
             1.5
         ],
         [
-            false,
-            "None",
-            0.42
+            true,
+            "RMSDXL_Enhance.safetensors",
+            5.0
         ],
         [
             false,
