@@ -1,8 +1,7 @@
 {
-    "default_model": "cyberrealisticXL_v4.safetensors",
+    "default_model": "cyberrealisticXL_v5.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_vae": "None",
     "default_loras": [
         [
             false,
@@ -44,7 +43,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "cyberrealisticXL_v4.safetensors": "https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealisticXL_v4.safetensors"
+        "cyberrealisticXL_v5.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/cyberrealisticXL_v5.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
