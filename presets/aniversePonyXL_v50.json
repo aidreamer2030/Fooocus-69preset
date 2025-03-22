@@ -1,8 +1,7 @@
 {
-    "default_model": "aniversePonyXL_v40.safetensors",
+    "default_model": "aniversePonyXL_v50.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_vae": "None",
     "default_loras": [
         [
             false,
@@ -30,21 +29,19 @@
             0.5
         ]
     ],
-    "default_cfg_scale": 7.0,
+    "default_cfg_scale": 5.5,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde",
+    "default_sampler": "dpmpp_2m",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "CyberRealisticNegativeSDXL-neg , open mouth, closed eyes,",
-    "default_styles": [
-        "Fooocus V2"
-    ],
-    "default_aspect_ratio": "896*1152",
+    "default_prompt": "score_9, score_8_up, score_7_up, 4n1v3rs3, ",
+    "default_prompt_negative": "score_6, score_5, score_4, worst quality:1.4, low quality:1.4, front light, grayscale, doll, plastic, fake, ugly, hair on face, muscular woman, low res, blurry, fat, topless,  ",
+    "default_styles": [    ],
+    "default_aspect_ratio": "800*1000",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "aniversePonyXL_v40.safetensors": "https://huggingface.co/LoneWolfVPS/AnimePonyTEST/resolve/main/aniversePonyXL_v40.safetensors"
+        "aniversePonyXL_v40.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/aniversePonyXL_v50.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
