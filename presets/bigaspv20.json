@@ -38,7 +38,7 @@
     "default_prompt_negative": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, text, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, plastic skin, unrealistic skin, 3D ",
     "default_styles": [ ],
     "default_aspect_ratio": "800*1000",
-    "default_overwrite_step": 40,
+    "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "bigaspv20.safetensors": "https://huggingface.co/LupusNyx/lxds/resolve/main/bigasp_v20.safetensors"
     },
