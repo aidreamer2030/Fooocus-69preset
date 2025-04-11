@@ -5,41 +5,39 @@
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
     "default_loras": [
         [
-            true,
-            "None",
-            0.85
+            false,
+            "detailed_notrigger.safetensors",
+            1.0
         ],
         [
             true,
-            "None",
-            0.6
+            "add-detail-xl.safetensors",
+            1.5
         ],
         [
             true,
-            "None",
-            0.82
+            "xl_more_art-full_v1.safetensors",
+            0.8
         ],
         [
             true,
-            "None",
-            0.42
+            "RMSDXL_Enhance.safetensors",
+            5
         ],
         [
-            true,
-            "None",
-            0.5
+            false,
+            "HDRv1.safetensors",
+            1.0
         ]
     ],
-    "default_cfg_scale": 7.0,
-    "default_sample_sharpness": 2.0,
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 3.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, cross, Christ, Christian, American, European, Korean, Japanese, plastic skin, unrealistic skin, 3D, tan lines, piercing, ",
-    "default_styles": [
-        "Fooocus Pony"
-    ],
+    "default_prompt_negative": "",
+    "default_styles": [    ],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
@@ -47,7 +45,16 @@
         "juggernautXL_juggXIByRundiffusion.safetensors": "https://huggingface.co/LupusNyx/lxds/resolve/main/juggernautXL_juggXIByRundiffusion.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
+        "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
+        "MJ52_v2.0.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/MJ52_v2.0.safetensors",
+        "WildcardX-XL-Detail-Enhancer.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/WildcardX-XL-Detail-Enhancer.safetensors",
+        "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors",
+        "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors",
+        "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/RMSDXL_Enhance.safetensors"        
+    },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }
