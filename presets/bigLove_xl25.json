@@ -1,0 +1,62 @@
+{
+    "default_model": "bigLove_xl25.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            false,
+            "",
+            0.75
+        ],
+        [
+            false,
+            "",
+            0.75
+        ],
+        [
+            false,
+            "",
+            0.75
+        ],
+        [
+            false,
+            "",
+            0.75
+        ],
+        [
+            false,
+            "",
+            0.75
+        ]
+    ],
+    "default_cfg_scale": 10,
+    "default_sample_sharpness": 3.0,
+    "default_sampler": "dpmpp_2m_sde",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "1152*896",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "bigLove_xl25.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/bigLove_xl25.safetensors"
+    },
+    "embeddings_downloads": {},
+"lora_downloads": {
+    "subtle-candidness2-xl1.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-candidness2-xl1.safetensors",
+    "subtle-candidness3-xl25.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-candidness3-xl25.safetensors",
+    "subtle-chatgptstyle-xl25.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-chatgptstyle-xl25.safetensors",
+    "subtle-fluxstyle-xl2.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-fluxstyle-xl2.safetensors",
+    "subtle-rayness2-xl25.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-rayness2-xl25.safetensors",
+    "subtle-realness-xl1.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-realness-xl1.safetensors",
+    "subtle-subtleness-xl1.safetensors": "https://huggingface.co/AMERICAN666/MISX-FILES-checkpoint/resolve/main/Big-Love/subtle-subtleness-xl1.safetensors",
+    "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
+    "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors"
+},
+    "vae_downloads": {
+        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors",
+        "diffusion_pytorch_model.safetensors": "https://huggingface.co/John6666/cyberrealistic-pony-v85-sdxl/resolve/main/vae/diffusion_pytorch_model.safetensors"
+    },
+
+}
