@@ -6,26 +6,26 @@
     "default_loras": [
         [
             true,
+            "zy_Realism_Enhancer_v2.safetensors",
+            0.9
+        ],
+        [
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
+            false,
             "None",
             1.0
         ]
@@ -48,7 +48,7 @@
         "CyberRealisticPony_POSV1.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/CyberRealisticPony_POSV1.safetensors",
         "CyberRealistic_Negative_PONY-neg.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/CyberRealistic_Negative_PONY-neg.safetensors"
     },
-    "lora_downloads": {},
+    "lora_downloads": {"zy_Realism_Enhancer_v2.safetensors": "https://huggingface.co/b3h-young123/misc-files/resolve/main/zy_Realism_Enhancer_v2.safetensors"},
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }
