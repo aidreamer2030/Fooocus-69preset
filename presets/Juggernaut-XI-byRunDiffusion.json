@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut-XI-byRunDiffusion.safetensors",
+    "default_model": "juggernautXL_ragnarokBy.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -14,14 +14,14 @@
             1.5
         ],
         [
-            true,
+            false,
             "xl_more_art-full_v1.safetensors",
             0.8
         ],
         [
-            true,
-            "RMSDXL_Enhance.safetensors",
-            5
+            false,
+            "none",
+            1
         ],
         [
             false,
@@ -40,18 +40,16 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-XI-byRunDiffusion.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
+        "juggernautXL_ragnarokBy.safetensors": "https://huggingface.co/AMERICAN666/MISc-FILES-checkpoint/resolve/main/juggernautXL_ragnarokBy.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
         "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
-        "MJ52_v2.0.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/MJ52_v2.0.safetensors",
-        "WildcardX-XL-Detail-Enhancer.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/WildcardX-XL-Detail-Enhancer.safetensors",
         "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors",
         "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors",
-        "RMSDXL_Enhance.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/RMSDXL_Enhance.safetensors"
+
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
