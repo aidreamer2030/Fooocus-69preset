@@ -48,8 +48,7 @@
         "add-detail-xl.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/add-detail-xl.safetensors",
         "xl_more_art-full_v1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/xl_more_art-full_v1.safetensors",
         "detailed_notrigger.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/detailed_notrigger.safetensors",
-        "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors",
-
+        "HDRv1.safetensors": "https://huggingface.co/AMERICAN666/misc-files-LORA/resolve/main/HDRv1.safetensors"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
